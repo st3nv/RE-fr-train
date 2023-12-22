@@ -1,0 +1,17 @@
+﻿Accuracy,DI,Type
+0.877,0.455,Naive
+0.871,0.473,Naive
+0.868,0.503,Naive
+0.863,0.535,Naive
+0.86,0.553,Naive
+0.843,0.632,Naive
+0.833,0.722,Naive
+0.804,0.836,Naive
+0.867,0.492,Original
+0.866,0.528,Original
+0.857,0.554,Original
+0.858,0.608,Original
+0.847,0.663,Original
+0.837,0.711,Original
+0.82,0.766,Original
+0.807,0.818,Original
